@@ -1,5 +1,5 @@
 import styles from '../styles/AccountLeftSide.module.css'
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import Image from 'next/image'
 
 

@@ -1,6 +1,5 @@
 import React from 'react'
 import styles from '../styles/HomePageBottomSlider.module.css'
-// import homePageTopSliderImg from "/homepagetopsliderImg.svg"
 import SwiperCore, { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
 import Image from 'next/image'
 import { Swiper, SwiperSlide } from 'swiper/react';

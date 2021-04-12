@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from '../styles/MobileFooter.module.css'
 import Link from 'next/link'
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 
 import Image from 'next/image'
 export default function MobileFooter() {

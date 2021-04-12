@@ -1,6 +1,5 @@
 import styles from '../styles/SellerProductSummary.module.css'
 import Image from 'next/image'
-
 import SellerProductSummaryAccordion from "./SellerProductSummaryAccordion"
 
 

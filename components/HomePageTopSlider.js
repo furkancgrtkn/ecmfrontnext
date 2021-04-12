@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import styles from '../styles/HomePageTopSlider.module.css'
 import Image from 'next/image'
 import SwiperCore, { Navigation, Pagination, Scrollbar, A11y } from 'swiper';

@@ -4,7 +4,7 @@ import SellerApplicationPage from '../../components/SellerApplicationPage'
 import styles from '../../styles/SellerApplicationPage.module.css'
 import Link from 'next/link'
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { Breadcrumb } from 'semantic-ui-react';
 
 export default function SaticiBasvuru() {
