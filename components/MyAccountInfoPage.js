@@ -1,8 +1,6 @@
 import styles from '../styles/MyAccountInfoPage.module.css'
 import { useState, useEffect } from 'react';
 import { Dropdown } from 'semantic-ui-react'
-import Cookies from 'universal-cookie'
-import { useRouter } from 'next/router'
 import InputMask from 'react-input-mask';
 
 

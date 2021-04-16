@@ -33,11 +33,11 @@ export default function MyOrderReturnsPage() {
             <div className={styles.orderReturnsWrapper}>
                 <p className={styles.subTitle}>
                     Toplam 3 adet iade
-                    </p>
+                </p>
                 <div className={styles.orderReturnsCard}>
                     <p className={styles.orderReturnDateInfo}>03.10.2020</p>
                     <div className={styles.orderReturnCardLeft}>
-                        <p className={styles.orderReturnStatus}><tx>Sipariş Kodu: <b>MNPRSQT1234</b></tx><span>Ürün iade alındı.</span></p>
+                        <p className={styles.orderReturnStatus}><span>Sipariş Kodu: <b>MNPRSQT1234</b></span><span>Ürün iade alındı.</span></p>
                         <div className={styles.orderReturnInfo}>
                             <div className={styles.orderReturnImg}>
                                 <Image
