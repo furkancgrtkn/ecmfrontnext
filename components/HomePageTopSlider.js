@@ -25,14 +25,14 @@ export default function HomePageTopSlider() {
                             <div className={styles.sliderBoxImgContainer}>
                                 <Image
                                     layout="fill"
-                                    src="https://i.hizliresim.com/dCjSTj.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618598437/pexels-david-jakab-959079_ounxbk.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                             </div>
                             <div className={styles.sliderTexts}>
                                 <p className={styles.mainTitle}>Lorem Ipsum dolor</p>
                                 <p className={styles.subTitle}>Lorem Ipsum dolor</p>
-                                <p className={styles.description}>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                                <p className={styles.description}>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam.</p>
                                 <button className={styles.discoverBtn}><p>KEŞFET</p></button>
                             </div>
                         </div>

@@ -38,7 +38,7 @@ export default function iletisim() {
                     <h2>İLETİŞİM</h2>
                 </div>
                 <div className={styles.contactHeadImg}>
-                    <Image unoptimized={true} width={1280} height={250} layout='fixed' src="https://i.hizliresim.com/Wr0lKb.png" />
+                    <Image unoptimized={true} width={1280} height={250} layout='fixed' src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618596751/Wr0lKb_ndyjzk.png" />
                 </div>
             </div>
             <main className={styles.contactMain}>

@@ -11,10 +11,10 @@ export default function HomePageBottomBanner() {
                     <button className={styles.banner1Btn}><p>TÜMÜNÜ GÖR</p></button>
                 </div>
                 <div className={styles.imageContainer}>
-                    <Image unoptimized={true} layout="fill" src="https://i.hizliresim.com/DmEDnr.png" alt="homepagebanner1Img" />
+                    <Image unoptimized={true} layout="fill" src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597607/pexels-ella-olsson-1640775_jbavh5.jpg" alt="homepagebanner1Img" />
                 </div>
             </div>
-
+            {/* 
             {bannerInfos.map((banner, index) =>
                 <div key={index} className={styles.banner2}>
                     <div className={styles.banner2Texts}>
@@ -23,10 +23,10 @@ export default function HomePageBottomBanner() {
                         <p className={styles.banner2Product}>Tarhana</p>
                     </div>
                     <div className={styles.imageContainer2}>
-                        <Image unoptimized={true} layout='fill' src="https://i.hizliresim.com/6fKMA8.png" alt="homepagebanner2Img" />
+                        <Image unoptimized={true} layout='fill' src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597982/pexels-daria-shevtsova-3326533_jx2qiw.jpg" alt="homepagebanner2Img" />
                     </div>
                 </div>
-            )}
+            )} */}
         </div>
     )
 

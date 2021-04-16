@@ -1,5 +1,6 @@
 module.exports = {
     images: {
-        domains: ['i.hizliresim.com'],
+        domains: ['res.cloudinary.com'],
+        deviceSizes: [640, 750, 828, 1080, 1200],
     },
 }

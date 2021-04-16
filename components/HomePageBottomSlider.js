@@ -26,7 +26,7 @@ export default function HomePageBottomSlider({ perView }) {
                             <Image
                                 unoptimized={true}
                                 layout='fill'
-                                src="https://i.hizliresim.com/tgiImu.png"
+                                src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597416/pexels-william-choquette-2641886_kpjhwu.jpg"
                                 alt="homepagebottomsliderImg"
                             />
                         </div>
@@ -44,7 +44,7 @@ export default function HomePageBottomSlider({ perView }) {
                             <Image
                                 unoptimized={true}
                                 layout='fill'
-                                src="https://i.hizliresim.com/tgiImu.png"
+                                src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597416/pexels-william-choquette-2641886_kpjhwu.jpg"
                                 alt="homepagebottomsliderImg2"
                             />
                         </div>
@@ -62,7 +62,7 @@ export default function HomePageBottomSlider({ perView }) {
                             <Image
                                 unoptimized={true}
                                 layout='fill'
-                                src="https://i.hizliresim.com/tgiImu.png"
+                                src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597416/pexels-william-choquette-2641886_kpjhwu.jpg"
                                 alt="homepagebottomsliderImg3"
                             />
                         </div>
@@ -80,7 +80,7 @@ export default function HomePageBottomSlider({ perView }) {
                             <Image
                                 unoptimized={true}
                                 layout='fill'
-                                src="https://i.hizliresim.com/tgiImu.png"
+                                src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597416/pexels-william-choquette-2641886_kpjhwu.jpg"
                                 alt="homepagebottomsliderImg"
                             />
                         </div>
@@ -98,7 +98,7 @@ export default function HomePageBottomSlider({ perView }) {
                             <Image
                                 unoptimized={true}
                                 layout='fill'
-                                src="https://i.hizliresim.com/tgiImu.png"
+                                src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597416/pexels-william-choquette-2641886_kpjhwu.jpg"
                                 alt="homepagebottomsliderImg2"
                             />
                         </div>
@@ -116,7 +116,7 @@ export default function HomePageBottomSlider({ perView }) {
                             <Image
                                 unoptimized={true}
                                 layout='fill'
-                                src="https://i.hizliresim.com/tgiImu.png"
+                                src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597416/pexels-william-choquette-2641886_kpjhwu.jpg"
                                 alt="homepagebottomsliderImg3"
                             />
                         </div>

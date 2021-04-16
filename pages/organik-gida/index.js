@@ -29,9 +29,9 @@ export default function organikgida() {
                         <Link href={`/organik-gida/bulgur`}>
                             <a>
                                 <Image
-                                    unoptimized={true}
+                                    quality={65}
                                     layout="fill"
-                                    src="https://i.hizliresim.com/DXk8kj.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597810/pexels-pixabay-461428_ofl1z0.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                                 <p className={styles.divProductText} style={{ width: '250px' }}>Lorem</p>
@@ -43,9 +43,9 @@ export default function organikgida() {
                         <Link href={`/organik-gida/bulgur`}>
                             <a>
                                 <Image
-                                    unoptimized={true}
+                                    quality={65}
                                     layout="fill"
-                                    src="https://i.hizliresim.com/SU1tr2.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618598434/pexels-madison-inouye-1405762_rees1m.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                                 <p className={styles.divProductText} style={{ right: '10px', bottom: '10px' }}>Lorem</p>
@@ -57,9 +57,9 @@ export default function organikgida() {
                         <Link href={`/organik-gida/bulgur`}>
                             <a>
                                 <Image
-                                    unoptimized={true}
+                                    quality={65}
                                     layout="fill"
-                                    src="https://i.hizliresim.com/bh2mYz.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597607/pexels-ella-olsson-1640775_jbavh5.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                                 <p className={styles.divProductText} style={{ right: '10px', bottom: '10px' }}>Lorem</p>
@@ -71,9 +71,9 @@ export default function organikgida() {
                         <Link href={`/organik-gida/bulgur`}>
                             <a>
                                 <Image
-                                    unoptimized={true}
+                                    quality={65}
                                     layout="fill"
-                                    src="https://i.hizliresim.com/XjuOCX.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618596977/top-view-fresh-ripe-vegetables-white-background_pczaeo.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                                 <p className={styles.divProductText}>Lorem</p>
@@ -85,9 +85,9 @@ export default function organikgida() {
                         <Link href={`/organik-gida/bulgur`}>
                             <a>
                                 <Image
-                                    unoptimized={true}
+                                    quality={65}
                                     layout="fill"
-                                    src="https://i.hizliresim.com/KrcWjx.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618598484/pexels-jill-burrow-6070360_uzoqa5.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                                 <p className={styles.divProductText}>Lorem</p>
@@ -99,9 +99,9 @@ export default function organikgida() {
                         <Link href={`/organik-gida/bulgur`}>
                             <a>
                                 <Image
-                                    unoptimized={true}
+                                    quality={65}
                                     layout="fill"
-                                    src="https://i.hizliresim.com/eshUad.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597982/pexels-daria-shevtsova-3326533_jx2qiw.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                                 <p className={styles.divProductText} style={{ left: '18px' }} >Lorem</p>
@@ -116,9 +116,9 @@ export default function organikgida() {
                         <Link href={`/organik-gida/bulgur`}>
                             <a>
                                 <Image
-                                    unoptimized={true}
+                                    quality={65}
                                     layout="fill"
-                                    src="https://i.hizliresim.com/DXk8kj.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597982/pexels-daria-shevtsova-3326533_jx2qiw.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                                 <p className={styles.divProductTextm}>Lorem</p>
@@ -130,9 +130,9 @@ export default function organikgida() {
                         <Link href={`/organik-gida/bulgur`}>
                             <a>
                                 <Image
-                                    unoptimized={true}
+                                    quality={65}
                                     layout="fill"
-                                    src="https://i.hizliresim.com/eshUad.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597982/pexels-daria-shevtsova-3326533_jx2qiw.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                                 <p className={styles.divProductTextm} style={{ left: '18px' }} >Lorem</p>
@@ -144,9 +144,9 @@ export default function organikgida() {
                         <Link href={`/organik-gida/bulgur`}>
                             <a>
                                 <Image
-                                    unoptimized={true}
+                                    quality={65}
                                     layout="fill"
-                                    src="https://i.hizliresim.com/DXk8kj.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597982/pexels-daria-shevtsova-3326533_jx2qiw.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                                 <p className={styles.divProductTextm}>Lorem</p>
@@ -158,9 +158,9 @@ export default function organikgida() {
                         <Link href={`/organik-gida/bulgur`}>
                             <a>
                                 <Image
-                                    unoptimized={true}
+                                    quality={65}
                                     layout="fill"
-                                    src="https://i.hizliresim.com/eshUad.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597982/pexels-daria-shevtsova-3326533_jx2qiw.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                                 <p className={styles.divProductTextm} style={{ left: '18px' }}>Lorem</p>
@@ -172,9 +172,9 @@ export default function organikgida() {
                         <Link href={`/organik-gida/bulgur`}>
                             <a>
                                 <Image
-                                    unoptimized={true}
+                                    quality={65}
                                     layout="fill"
-                                    src="https://i.hizliresim.com/DXk8kj.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597982/pexels-daria-shevtsova-3326533_jx2qiw.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                                 <p className={styles.divProductTextm}>Lorem</p>
@@ -186,9 +186,9 @@ export default function organikgida() {
                         <Link href={`/organik-gida/bulgur`}>
                             <a>
                                 <Image
-                                    unoptimized={true}
+                                    quality={65}
                                     layout='fill'
-                                    src="https://i.hizliresim.com/eshUad.png"
+                                    src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597982/pexels-daria-shevtsova-3326533_jx2qiw.jpg"
                                     alt="homepagetopsliderImg"
                                 />
                                 <p className={styles.divProductTextm} style={{ left: '18px' }} >Lorem</p>
