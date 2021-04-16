@@ -24,7 +24,7 @@ export default function HomePageBottomSlider({ perView }) {
                     <div className={styles.sliderBox}>
                         <div className={styles.sliderBoxImgContainer}>
                             <Image
-                                unoptimized={true}
+                                quality={65}
                                 layout='fill'
                                 src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597416/pexels-william-choquette-2641886_kpjhwu.jpg"
                                 alt="homepagebottomsliderImg"
@@ -42,7 +42,7 @@ export default function HomePageBottomSlider({ perView }) {
                     <div className={styles.sliderBox}>
                         <div className={styles.sliderBoxImgContainer}>
                             <Image
-                                unoptimized={true}
+                                quality={65}
                                 layout='fill'
                                 src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597416/pexels-william-choquette-2641886_kpjhwu.jpg"
                                 alt="homepagebottomsliderImg2"
@@ -60,7 +60,7 @@ export default function HomePageBottomSlider({ perView }) {
                     <div className={styles.sliderBox}>
                         <div className={styles.sliderBoxImgContainer}>
                             <Image
-                                unoptimized={true}
+                                quality={65}
                                 layout='fill'
                                 src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597416/pexels-william-choquette-2641886_kpjhwu.jpg"
                                 alt="homepagebottomsliderImg3"
@@ -78,7 +78,7 @@ export default function HomePageBottomSlider({ perView }) {
                     <div className={styles.sliderBox}>
                         <div className={styles.sliderBoxImgContainer}>
                             <Image
-                                unoptimized={true}
+                                quality={65}
                                 layout='fill'
                                 src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597416/pexels-william-choquette-2641886_kpjhwu.jpg"
                                 alt="homepagebottomsliderImg"
@@ -96,7 +96,7 @@ export default function HomePageBottomSlider({ perView }) {
                     <div className={styles.sliderBox}>
                         <div className={styles.sliderBoxImgContainer}>
                             <Image
-                                unoptimized={true}
+                                quality={65}
                                 layout='fill'
                                 src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597416/pexels-william-choquette-2641886_kpjhwu.jpg"
                                 alt="homepagebottomsliderImg2"
@@ -114,7 +114,7 @@ export default function HomePageBottomSlider({ perView }) {
                     <div className={styles.sliderBox}>
                         <div className={styles.sliderBoxImgContainer}>
                             <Image
-                                unoptimized={true}
+                                quality={65}
                                 layout='fill'
                                 src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597416/pexels-william-choquette-2641886_kpjhwu.jpg"
                                 alt="homepagebottomsliderImg3"
