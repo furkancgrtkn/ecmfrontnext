@@ -67,6 +67,9 @@ input {
   background: white;
 }
 
+img {
+  object-fit: cover;
+}
 #nprogress .bar {
   background: #f17b2d !important;
   height: 6px !important;

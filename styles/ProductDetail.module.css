@@ -22,6 +22,14 @@
   position: relative;
 }
 
+.mainImageContainer img {
+  object-fit: cover;
+}
+
+.thumbsImageContainer img {
+  object-fit: cover;
+}
+
 .thumbsImageContainer {
   width: 100px;
   height: 100px;
@@ -279,6 +287,10 @@
   margin-bottom: 140px;
   width: 100%;
   justify-content: space-between;
+}
+
+.recommendedProducts img {
+  object-fit: cover;
 }
 
 .recommendedProducts h3 {
