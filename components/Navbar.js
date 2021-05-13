@@ -20,13 +20,6 @@ export default function Navbar() {
           <ul className={styles.navbarTopLeft}>
             <li>
               <span style={{ marginRight: 7 }}>EN</span>{" "}
-              <Image
-                quality={65}
-                src="/arrowdown.svg"
-                alt="arrow"
-                width="12"
-                height="6,86"
-              />
             </li>
             <Image
               quality={65}
