@@ -68,7 +68,7 @@ input {
 }
 
 img {
-  object-fit: cover;
+  object-fit: contain;
 }
 #nprogress .bar {
   background: #f17b2d !important;

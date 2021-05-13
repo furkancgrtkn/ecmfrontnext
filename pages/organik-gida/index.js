@@ -27,7 +27,7 @@ export default function organikgida() {
             <Link href={`/organik-gida/bulgur`}>
               <a>
                 <Image
-                  quality={65}
+                  quality={50}
                   layout="fill"
                   src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597810/pexels-pixabay-461428_ofl1z0.jpg"
                   alt="homepagetopsliderImg"
@@ -43,7 +43,7 @@ export default function organikgida() {
             <Link href={`/organik-gida/bulgur`}>
               <a>
                 <Image
-                  quality={65}
+                  quality={50}
                   layout="fill"
                   src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618598434/pexels-madison-inouye-1405762_rees1m.jpg"
                   alt="homepagetopsliderImg"
@@ -62,7 +62,7 @@ export default function organikgida() {
             <Link href={`/organik-gida/bulgur`}>
               <a>
                 <Image
-                  quality={65}
+                  quality={50}
                   layout="fill"
                   src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597607/pexels-ella-olsson-1640775_jbavh5.jpg"
                   alt="homepagetopsliderImg"
@@ -81,7 +81,7 @@ export default function organikgida() {
             <Link href={`/organik-gida/bulgur`}>
               <a>
                 <Image
-                  quality={65}
+                  quality={50}
                   layout="fill"
                   src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618596977/top-view-fresh-ripe-vegetables-white-background_pczaeo.jpg"
                   alt="homepagetopsliderImg"
@@ -95,7 +95,7 @@ export default function organikgida() {
             <Link href={`/organik-gida/bulgur`}>
               <a>
                 <Image
-                  quality={65}
+                  quality={50}
                   layout="fill"
                   src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618598484/pexels-jill-burrow-6070360_uzoqa5.jpg"
                   alt="homepagetopsliderImg"
@@ -109,7 +109,7 @@ export default function organikgida() {
             <Link href={`/organik-gida/bulgur`}>
               <a>
                 <Image
-                  quality={65}
+                  quality={50}
                   layout="fill"
                   src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597810/pexels-pixabay-461428_ofl1z0.jpg"
                   alt="homepagetopsliderImg"
@@ -127,7 +127,7 @@ export default function organikgida() {
             <Link href={`/organik-gida/bulgur`}>
               <a>
                 <Image
-                  quality={65}
+                  quality={50}
                   layout="fill"
                   src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597810/pexels-pixabay-461428_ofl1z0.jpg"
                   alt="homepagetopsliderImg"
@@ -141,7 +141,7 @@ export default function organikgida() {
             <Link href={`/organik-gida/bulgur`}>
               <a>
                 <Image
-                  quality={65}
+                  quality={50}
                   layout="fill"
                   src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597810/pexels-pixabay-461428_ofl1z0.jpg"
                   alt="homepagetopsliderImg"
@@ -157,7 +157,7 @@ export default function organikgida() {
             <Link href={`/organik-gida/bulgur`}>
               <a>
                 <Image
-                  quality={65}
+                  quality={50}
                   layout="fill"
                   src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597810/pexels-pixabay-461428_ofl1z0.jpg"
                   alt="homepagetopsliderImg"
@@ -171,7 +171,7 @@ export default function organikgida() {
             <Link href={`/organik-gida/bulgur`}>
               <a>
                 <Image
-                  quality={65}
+                  quality={50}
                   layout="fill"
                   src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597810/pexels-pixabay-461428_ofl1z0.jpg"
                   alt="homepagetopsliderImg"
@@ -187,7 +187,7 @@ export default function organikgida() {
             <Link href={`/organik-gida/bulgur`}>
               <a>
                 <Image
-                  quality={65}
+                  quality={50}
                   layout="fill"
                   src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597810/pexels-pixabay-461428_ofl1z0.jpg"
                   alt="homepagetopsliderImg"
@@ -201,7 +201,7 @@ export default function organikgida() {
             <Link href={`/organik-gida/bulgur`}>
               <a>
                 <Image
-                  quality={65}
+                  quality={50}
                   layout="fill"
                   src="https://res.cloudinary.com/dhy7yh4aa/image/upload/v1618597810/pexels-pixabay-461428_ofl1z0.jpg"
                   alt="homepagetopsliderImg"

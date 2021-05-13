@@ -21,6 +21,7 @@
 .sliderBoxImgContainer img {
   animation-name: imgAnimation;
   animation-duration: 1s;
+  object-fit: cover;
 }
 
 @keyframes imgAnimation {
