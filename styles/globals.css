@@ -304,7 +304,7 @@ img {
 
 .productsSortDropdown.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/arrowdown.svg") !important;
+  background-image: url("/arrowdown.svg") !important;
   background-repeat: no-repeat;
   z-index: 2;
   width: 12px;
@@ -375,7 +375,7 @@ img {
 
 .dayDropdown.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/arrowdown.svg") !important;
+  background-image: url("/arrowdown.svg") !important;
   background-repeat: no-repeat;
   z-index: 2;
   width: 12px;
@@ -420,7 +420,7 @@ img {
 
 .genderDropdown.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/arrowdown.svg") !important;
+  background-image: url("/arrowdown.svg") !important;
   background-repeat: no-repeat;
   z-index: 2;
   width: 12px;
@@ -532,7 +532,7 @@ img {
 
 .countryDropdown.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/arrowdown.svg") !important;
+  background-image: url("/arrowdown.svg") !important;
   background-repeat: no-repeat;
   z-index: 2;
   width: 12px;
@@ -663,7 +663,7 @@ img {
 
 .cardDropdown.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/arrowdown.svg") !important;
+  background-image: url("/arrowdown.svg") !important;
   background-repeat: no-repeat;
   z-index: 2;
   width: 12px;
@@ -709,14 +709,14 @@ img {
 
 .reccommendedSlider .swiper-button-prev:after {
   content: "";
-  background: url("../public/left.png");
+  background: url("/left.png");
   width: 20.24px;
   height: 13.5px;
 }
 
 .reccommendedSlider .swiper-button-next:after {
   content: "";
-  background: url("../public/right.png");
+  background: url("/right.png");
   width: 20.24px;
   height: 13.5px;
 }
@@ -791,7 +791,7 @@ img {
 
 .orderDropdown.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/arrowdown.svg") !important;
+  background-image: url("/arrowdown.svg") !important;
   background-repeat: no-repeat;
   z-index: 2;
   width: 12px;
@@ -851,7 +851,7 @@ img {
 
 .commentSortDrop.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/arrowdown.svg") !important;
+  background-image: url("/arrowdown.svg") !important;
   background-repeat: no-repeat;
   z-index: 2;
   width: 12px;
@@ -893,7 +893,7 @@ img {
 
 .commentSortDropStar.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/arrowdown.svg") !important;
+  background-image: url("/arrowdown.svg") !important;
   background-repeat: no-repeat;
   z-index: 2;
   width: 12px;
@@ -958,7 +958,7 @@ img {
 
 .favoriteCardDropdown.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/favoriteDropdown.svg") !important;
+  background-image: url("/favoriteDropdown.svg") !important;
   background-repeat: no-repeat !important;
   z-index: 2;
   width: 9px;
@@ -1002,7 +1002,7 @@ img {
 
 .basketCountDrop.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/arrowdown.svg") !important;
+  background-image: url("/arrowdown.svg") !important;
   background-repeat: no-repeat;
   z-index: 2;
   width: 12px;
@@ -1048,7 +1048,7 @@ img {
 
 .messageModalDropdown.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/favoriteDropdown.svg") !important;
+  background-image: url("/favoriteDropdown.svg") !important;
   background-repeat: no-repeat !important;
   z-index: 2;
   width: 9px;
@@ -1123,7 +1123,7 @@ img {
 
 .couponDropdown.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/favoriteDropdown.svg") !important;
+  background-image: url("/favoriteDropdown.svg") !important;
   background-repeat: no-repeat !important;
   z-index: 2;
   width: 9px;
@@ -1168,7 +1168,7 @@ img {
 
 .cardDropdownForBasket.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/arrowdown.svg") !important;
+  background-image: url("/arrowdown.svg") !important;
   background-repeat: no-repeat;
   z-index: 2;
   width: 12px;
@@ -1213,7 +1213,7 @@ img {
 
 .compnayInfoDropdown.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/arrowdown.svg") !important;
+  background-image: url("/arrowdown.svg") !important;
   background-repeat: no-repeat;
   z-index: 2;
   width: 12px;
@@ -1256,7 +1256,7 @@ img {
 
 .contactDropdown.ui.dropdown > .dropdown.icon:before {
   content: "";
-  background-image: url("../public/arrowdown.svg") !important;
+  background-image: url("/arrowdown.svg") !important;
   background-repeat: no-repeat;
   z-index: 2;
   width: 12px;
