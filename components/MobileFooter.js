@@ -23,12 +23,6 @@ export default function MobileFooter() {
                 className={styles.footerHeadersMobile}
               >
                 <b>MÜŞTERİ HİZMETLERİ</b>
-                <Image
-                  src="/arrowdownWhite.svg"
-                  alt="arrow"
-                  width="9"
-                  height="9"
-                />
               </h3>
             ) : (
               <h3
@@ -36,13 +30,6 @@ export default function MobileFooter() {
                 className={styles.footerHeadersMobile}
               >
                 MÜŞTERİ HİZMETLERİ
-                <Image
-                  quality={65}
-                  src="/nextIconWhite.svg"
-                  alt="arrow"
-                  width="5"
-                  height="9"
-                />
               </h3>
             )}
             <ul
@@ -90,13 +77,6 @@ export default function MobileFooter() {
                 className={styles.footerHeadersMobile}
               >
                 <b>HAKKIMIZDA</b>
-                <Image
-                  quality={65}
-                  src="/arrowdownWhite.svg"
-                  alt="arrow"
-                  width="9"
-                  height="9"
-                />
               </h3>
             ) : (
               <h3
@@ -104,13 +84,6 @@ export default function MobileFooter() {
                 className={styles.footerHeadersMobile}
               >
                 HAKKIMIZDA
-                <Image
-                  quality={65}
-                  src="/nextIconWhite.svg"
-                  alt="arrow"
-                  width="5"
-                  height="9"
-                />
               </h3>
             )}
 
@@ -157,13 +130,6 @@ export default function MobileFooter() {
                 className={styles.footerHeadersMobile}
               >
                 <b>ÜRÜNLER</b>
-                <Image
-                  quality={65}
-                  src="/arrowdownWhite.svg"
-                  alt="arrow"
-                  width="9"
-                  height="9"
-                />
               </h3>
             ) : (
               <h3
@@ -171,13 +137,6 @@ export default function MobileFooter() {
                 className={styles.footerHeadersMobile}
               >
                 ÜRÜNLER
-                <Image
-                  quality={65}
-                  src="/nextIconWhite.svg"
-                  alt="arrow"
-                  width="5"
-                  height="9"
-                />
               </h3>
             )}
             <ul
