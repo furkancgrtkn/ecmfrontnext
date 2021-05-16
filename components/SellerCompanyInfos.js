@@ -82,28 +82,13 @@ export default function SellerCompanyInfos({ section, setSection }) {
         }}
       />
       <p className={styles.desc}>Yetkili Adı Soyadı</p>
-      <input
-        type="text"
-        className={styles.fullNameInput}
-        onChange={(e) => {
-          setMail(e.target.value);
-        }}
-      />
+      <input type="text" className={styles.fullNameInput} />
       <p className={styles.desc}>Yetkili E-Posta</p>
-      <input
-        type="email"
-        className={styles.mailInput}
-        onChange={(e) => {
-          setFullName(e.target.value);
-        }}
-      />
+      <input type="email" className={styles.mailInput} />
       <p className={styles.desc}>Yetkili Telefon Numarası</p>
       <input
         type="number"
         className={styles.phoneInput}
-        onChange={(e) => {
-          setPhone(e.target.value);
-        }}
         placeholder="Yetkili Telefon Numarası"
       />
 

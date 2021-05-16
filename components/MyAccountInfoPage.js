@@ -68,7 +68,6 @@ export default function Register({ accountInfo }) {
         <input
           type="mail"
           className={styles.mailInput}
-          value={mail}
           //   onChange={(e) => {
           //     setMail(e.target.value);
           //   }}
@@ -78,7 +77,6 @@ export default function Register({ accountInfo }) {
         <input
           type="text"
           className={styles.fullNameInput}
-          value={fullName}
           //   onChange={(e) => {
           //     setFullName(e.target.value);
           //   }}
@@ -96,7 +94,7 @@ export default function Register({ accountInfo }) {
         <InputMask
           className={styles.phoneInput}
           mask="999-999-9999"
-          value={phone}
+
           //   onChange={(e) => {
           //     setPhone(e.target.value);
           //   }}
